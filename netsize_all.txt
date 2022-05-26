@@ -1,0 +1,237 @@
+Análisis de datos con uso de for, por: Lucia Garcia
+97
+80
+El número de filas es: .
+El número de columnas es: .
+14
+20
+El número de filas es: .
+El número de columnas es: .
+270
+91
+El número de filas es: .
+El número de columnas es: .
+7
+72
+El número de filas es: .
+El número de columnas es: .
+61
+17
+El número de filas es: .
+El número de columnas es: .
+35
+15
+El número de filas es: .
+El número de columnas es: .
+38
+11
+El número de filas es: .
+El número de columnas es: .
+118
+24
+El número de filas es: .
+El número de columnas es: .
+76
+31
+El número de filas es: .
+El número de columnas es: .
+13
+14
+El número de filas es: .
+El número de columnas es: .
+10
+16
+El número de filas es: .
+El número de columnas es: .
+62
+41
+El número de filas es: .
+El número de columnas es: .
+18
+7
+El número de filas es: .
+El número de columnas es: .
+19
+45
+El número de filas es: .
+El número de columnas es: .
+19
+36
+El número de filas es: .
+El número de columnas es: .
+179
+26
+El número de filas es: .
+El número de columnas es: .
+80
+28
+El número de filas es: .
+El número de columnas es: .
+17
+16
+El número de filas es: .
+El número de columnas es: .
+82
+40
+El número de filas es: .
+El número de columnas es: .
+27
+5
+El número de filas es: .
+El número de columnas es: .
+90
+19
+El número de filas es: .
+El número de columnas es: .
+61
+25
+El número de filas es: .
+El número de columnas es: .
+25
+36
+El número de filas es: .
+El número de columnas es: .
+8
+19
+El número de filas es: .
+El número de columnas es: .
+28
+25
+El número de filas es: .
+El número de columnas es: .
+45
+21
+El número de filas es: .
+El número de columnas es: .
+70
+20
+El número de filas es: .
+El número de columnas es: .
+79
+25
+El número de filas es: .
+El número de columnas es: .
+14
+8
+El número de filas es: .
+El número de columnas es: .
+40
+169
+El número de filas es: .
+El número de columnas es: .
+44
+13
+El número de filas es: .
+El número de columnas es: .
+51
+99
+El número de filas es: .
+El número de columnas es: .
+33
+25
+El número de filas es: .
+El número de columnas es: .
+101
+11
+El número de filas es: .
+El número de columnas es: .
+28
+18
+El número de filas es: .
+El número de columnas es: .
+12
+10
+El número de filas es: .
+El número de columnas es: .
+42
+8
+El número de filas es: .
+El número de columnas es: .
+55
+29
+El número de filas es: .
+El número de columnas es: .
+56
+9
+El número de filas es: .
+El número de columnas es: .
+36
+61
+El número de filas es: .
+El número de columnas es: .
+58
+17
+El número de filas es: .
+El número de columnas es: .
+139
+41
+El número de filas es: .
+El número de columnas es: .
+118
+49
+El número de filas es: .
+El número de columnas es: .
+47
+23
+El número de filas es: .
+El número de columnas es: .
+21
+7
+El número de filas es: .
+El número de columnas es: .
+45
+46
+El número de filas es: .
+El número de columnas es: .
+8
+15
+El número de filas es: .
+El número de columnas es: .
+33
+7
+El número de filas es: .
+El número de columnas es: .
+34
+13
+El número de filas es: .
+El número de columnas es: .
+126
+25
+El número de filas es: .
+El número de columnas es: .
+14
+50
+El número de filas es: .
+El número de columnas es: .
+110
+207
+El número de filas es: .
+El número de columnas es: .
+14
+11
+El número de filas es: .
+El número de columnas es: .
+678
+90
+El número de filas es: .
+El número de columnas es: .
+663
+130
+El número de filas es: .
+El número de columnas es: .
+9
+31
+El número de filas es: .
+El número de columnas es: .
+16
+25
+El número de filas es: .
+El número de columnas es: .
+19
+33
+El número de filas es: .
+El número de columnas es: .
+12
+22
+El número de filas es: .
+El número de columnas es: .
