@@ -2,7 +2,11 @@
 ## Bioinformatica
 ### datos personales
 Lucia Garcia
+
+Manabí
+
 21 años
+
 biotecnología
 ### detalles del equipo
 Nombre del dispositivo	LAB-C-E2
@@ -23,4 +27,5 @@ procesador basado en x64
 Lápiz y entrada táctil	La entrada táctil o manuscrita no está disponible para esta pantalla
 ### detalles de los programas
 atom 1.60.0
- utilizados
+Git bash
+ version 4.4.23
