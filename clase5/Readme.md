@@ -2,6 +2,8 @@
 ## Bioinformatica
 ### datos personales
 Lucia Garcia
+21 años
+biotecnología
 ### detalles del equipo
 Nombre del dispositivo	LAB-C-E2
 Nombre completo del dispositivo	LAB-C-E2.ikiam.edu.ec
