@@ -27,5 +27,6 @@ procesador basado en x64
 Lápiz y entrada táctil	La entrada táctil o manuscrita no está disponible para esta pantalla
 ### detalles de los programas
 atom 1.60.0
+
 Git bash
  version 4.4.23
